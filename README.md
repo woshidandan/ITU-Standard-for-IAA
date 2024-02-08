@@ -1,8 +1,16 @@
-# ITU-Standard-for-IAA
-After three years of discussion and revision, the first international standard on image aesthetics assessment metadata, which I spearheaded, has been published. 经过三年的讨论和修改，由我主持的首个关于图像美学评估元数据的国际标准发布.
+## ITU-Standard-for-IAA
+This repo contains the ITU standard:
+
+<div align="center">
+<h1>
+<b>
+Metadata for image aesthetics assessment with aesthetic attributes in mobile terminal computational photography systems
+</b>
+</h1>
+</div>
 
 # Summary
-Sometimes, you may want to take a nice photo, but before that, we need to know what is the key to the beauty of the image. In fact, with the development of the market economy, and the improvement of people's spiritual and cultural needs, our mobile terminal manufacturers not only need to provide better device to take photos, but also need to know whether the image cat to most users' preference. There are already many objective evaluation standards to help us select an excellent mobile terminal device, but an excellent device may not be able to take beautiful photos. For applications in which images are ultimately to be viewed by human beings, the only “correct” method of quantifying visual image aesthetics, is through subjective evaluation. However, the relevant standards on subjective evaluation of images in mobile terminal are still blank.
+After three years of discussion and revision, the first international standard on image aesthetics assessment metadata, which I spearheaded, has been published. 经过三年的讨论和修改，由我主持的首个关于图像美学评估元数据的国际标准发布.Sometimes, you may want to take a nice photo, but before that, we need to know what is the key to the beauty of the image. In fact, with the development of the market economy, and the improvement of people's spiritual and cultural needs, our mobile terminal manufacturers not only need to provide better device to take photos, but also need to know whether the image cat to most users' preference. There are already many objective evaluation standards to help us select an excellent mobile terminal device, but an excellent device may not be able to take beautiful photos. For applications in which images are ultimately to be viewed by human beings, the only “correct” method of quantifying visual image aesthetics, is through subjective evaluation. However, the relevant standards on subjective evaluation of images in mobile terminal are still blank.
 
 Subjective evaluation aims to evaluate whether the image conforms to the possible audience's aesthetics, which belongs to the scope of image aesthetics assessment (hereinafter called IAA). On the one hand, the aesthetic attributes and the processes that affect the final image aesthetics are complex, so the industry lacks a unified definition for it; on the other hand, due to the spiritual and cultural differences among users, even for the same image, there are a thousand Hamlets in a thousand people's eyes. Therefore, we are not yet able to make a fast and effective subjective evaluation.
 
